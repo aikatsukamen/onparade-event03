@@ -1,0 +1,19 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 300,
+  "prettier.disableLanguages": ["markdown"],
+  "files.eol": "\n",
+  "explorer.confirmDragAndDrop": false,
+  "eslint.autoFixOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true,
+    "source.fixAll.eslint": true
+  },
+  "git.enableSmartCommit": true,
+  "breadcrumbs.enabled": true,
+  "html.format.wrapLineLength": 0,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.quoteStyle": "single",
+  "window.zoomLevel": 0
+}
